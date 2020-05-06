@@ -106,7 +106,7 @@
 
 ### Vertical left-top
 ```HTML
-<div class="flex h xl yt">
+<div class="flex v xl yt">
   <div>1</div>
   <div>2</div>
   <div>3</div>
@@ -116,7 +116,7 @@
 
 ### Vertical center-top
 ```HTML
-<div class="flex h xc yt">
+<div class="flex v xc yt">
   <div>1</div>
   <div>2</div>
   <div>3</div>
@@ -136,7 +136,7 @@
 
 ### Vertical left-center
 ```HTML
-<div class="flex h xl yc">
+<div class="flex v xl yc">
   <div>1</div>
   <div>2</div>
   <div>3</div>
@@ -146,7 +146,7 @@
 
 ### Vertical center-center
 ```HTML
-<div class="flex h xc yc">
+<div class="flex v xc yc">
   <div>1</div>
   <div>2</div>
   <div>3</div>
@@ -156,7 +156,7 @@
 
 ### Vertical right-center
 ```HTML
-<div class="flex h xr yc">
+<div class="flex v xr yc">
   <div>1</div>
   <div>2</div>
   <div>3</div>
@@ -176,7 +176,7 @@
 
 ### Vertical center-bottom
 ```HTML
-<div class="flex h xc yb">
+<div class="flex v xc yb">
   <div>1</div>
   <div>2</div>
   <div>3</div>
@@ -186,7 +186,7 @@
 
 ### Vertical right-bottom
 ```HTML
-<div class="flex h xr yb">
+<div class="flex v xr yb">
   <div>1</div>
   <div>2</div>
   <div>3</div>
